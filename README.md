@@ -36,8 +36,7 @@ This project analyzes crime data from Boston to identify insights and trends. Th
 
 ## Time series forecasting of daily crime rates.
 
-https://github.com/vineshgvk/Boston-Crime-data-analysis/blob/master/myanim.gif
-
+![myanim](https://github.com/vineshgvk/Boston-Crime-data-analysis/assets/67590588/0ea5d166-f449-48ec-8131-9ba7f6482a21)
 
 
 ## Data
